@@ -1,0 +1,71 @@
+{
+    "1": {
+        "order_id": 1,
+        "customer_name": "Arnab Adhikary",
+        "ordered_dishes": [
+            "Pizza"
+        ],
+        "order_status": "received"
+    },
+    "2": {
+        "order_id": 2,
+        "customer_name": "Ankur",
+        "ordered_dishes": [
+            "Pizza",
+            "Biriyani"
+        ],
+        "order_status": "received"
+    },
+    "3": {
+        "order_id": 3,
+        "customer_name": "Anant Kumar",
+        "ordered_dishes": [
+            "Pizza",
+            "Biriyani"
+        ],
+        "order_status": "received"
+    },
+    "4": {
+        "order_id": 4,
+        "customer_name": "Rakesh Kumar",
+        "ordered_dishes": [
+            "Samosaa",
+            "Chilli Chicken"
+        ],
+        "order_status": "received"
+    },
+    "5": {
+        "order_id": 5,
+        "customer_name": "1 5 3",
+        "ordered_dishes": [
+            "Pizza",
+            "Chilli Chicken",
+            "Biriyani"
+        ],
+        "order_status": "received"
+    },
+    "6": {
+        "order_id": 6,
+        "customer_name": "Arnab Adhikary",
+        "ordered_dishes": [
+            "Chilli Chicken"
+        ],
+        "order_status": "received"
+    },
+    "7": {
+        "order_id": 7,
+        "customer_name": "Arnab Adhikary",
+        "ordered_dishes": [
+            "Chilli Chicken"
+        ],
+        "order_status": "received"
+    },
+    "8": {
+        "order_id": 8,
+        "customer_name": "Arnab",
+        "ordered_dishes": [
+            "Chilli Chicken"
+        ],
+        "order_status": "received"
+    }
+}
